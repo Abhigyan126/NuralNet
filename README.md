@@ -1,2 +1,2 @@
 # NuralNet
-Nural Network from scratch, solving XOR plobrem.
+Nural Network from scratch usign numpy, solving XOR plobrem.
